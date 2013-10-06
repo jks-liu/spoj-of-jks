@@ -18,6 +18,7 @@ I use the [Algorithmic Language Scheme](http://www.schemers.org/Documents/Standa
 
 
 ### 51-100
+- [x] [No. 64, PERMUT1, *Permutations*](http://www.spoj.com/problems/PERMUT1/), Scheme/Guile, **AC**
 - [ ] No. 74, DIVSUM, *Divisor Summation*, Scheme/Guile, TLE
 
 ### 401-450
