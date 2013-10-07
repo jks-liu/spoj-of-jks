@@ -21,6 +21,9 @@ I use the [Algorithmic Language Scheme](http://www.schemers.org/Documents/Standa
 - [x] [No. 64, PERMUT1, *Permutations*](http://www.spoj.com/problems/PERMUT1/), Scheme/Guile, **AC**
 - [ ] No. 74, DIVSUM, *Divisor Summation*, Scheme/Guile, TLE
 
+### 301-350
+- [x] [No. 302, CANTON, *Count on Cantor*](http://www.spoj.com/problems/CANTON/), Scheme/Guile, **AC**
+
 ### 401-450
 - [x] No. 439, TMUL, *Not So Fast Multiplication*, Scheme/Guile, **AC**
 
